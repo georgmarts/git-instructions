@@ -25,5 +25,9 @@ How to use Git?
 
 // Show history of commits
 
+8. git remote add origin https://github.com/georgmarts/git-practice
+
+9. git push -u origin master
+
 
 

@@ -29,5 +29,7 @@ How to use Git?
 
 9. git push -u origin master
 
+// If it is your first time it will request password in a new dialog window
+
 
 

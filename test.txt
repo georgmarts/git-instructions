@@ -1,0 +1,10 @@
+How to use Git?
+
+1. Install git on computer
+
+2.  git config --global user.name "Georgiy"
+    git config --global user.email "georgmarts@gmail.com"
+
+// It's not for loggin in, it's just for other users to know who made the changes
+
+3. 

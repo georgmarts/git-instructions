@@ -7,4 +7,23 @@ How to use Git?
 
 // It's not for loggin in, it's just for other users to know who made the changes
 
-3. 
+3. git init
+
+//  Creates .git folder
+
+4. git status
+
+5. git add file.js
+
+// Adds file. To add all folders, don't specify the file. To add multiple files, just specify their names without commas
+
+6. git commit -m "First commit"
+
+// Saves changes
+
+7. git log
+
+// Show history of commits
+
+
+

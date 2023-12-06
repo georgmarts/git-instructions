@@ -17,9 +17,13 @@ How to use Git?
 
 // Adds file. To add all folders, don't specify the file. To add multiple files, just specify their names without commas
 
-6. git commit -m "First commit"
+6.1 git commit -m "First commit"
 
 // Saves changes
+
+6.2 git commit -a -m "Second commit"
+
+// Usually before commit you should write git add every time. To avoid this use this command instead.
 
 7. git log
 

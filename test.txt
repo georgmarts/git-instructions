@@ -29,13 +29,11 @@ How to use Git?
 
 // Show history of commits
 
-8. git remote add origin https://github.com/georgmarts/git-practice
+8. git remote add origin https://github.com/georgmarts/git-instructions
 
 9. git push -u origin master
 
 // If it is your first time it will request password in a new dialog window
-
-10.
 
 
 
